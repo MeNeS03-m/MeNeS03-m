@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im currently studying informatics, programming and system architecture at UIO. <br>
+I'm currently studying informatics, programming and system architecture at UIO. <br>
 
 
 ## 🌐 Socials:
