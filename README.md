@@ -1,5 +1,6 @@
 # 💫 About Me:
 <h3>I'm currently studying informatics, programming and system architecture at UIO.</h3> <br>
+
 ![Alt Text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3o1ZWM2cXo1N3V6Z2ttaHpmYTUydWZwcHQ3eHYza3dlYTNrMm5mNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif)
 
 ## 🌐 Socials:
